@@ -5,3 +5,4 @@ Creating Snapshots
   - Staging changes
   - Branching
   - rebase
+  - swtiched to master to checkout rebase
